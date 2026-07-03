@@ -1,0 +1,9 @@
+# Ignore the VS Code settings folder
+.vscode/
+
+# Ignore compiled executable programs
+*.exe
+output/
+
+# Ignore debugging database files
+*.pdb
